@@ -1,4 +1,4 @@
-rootProject.name = "test-for-tests"
+rootProject.name = "tests-for-tests"
 
 pluginManagement {
     plugins {
